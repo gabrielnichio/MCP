@@ -18,7 +18,7 @@ Servidor Python que expõe ferramentas para execução de comandos shell e simul
 ## Instalação e Execução Local
 1. Clone o repositório:
    ```sh
-   git clone <url-do-repositorio>
+   git clone https://github.com/gabrielnichio/MCP.git
    cd shellserver
    ```
 2. Instale as dependências:
